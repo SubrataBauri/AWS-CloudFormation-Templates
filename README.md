@@ -1,2 +1,4 @@
-# AWS-CloudFormation-Templates
-Various Cloudformation Templates
+# AWS CloudFormation Templates
+This Repo Contains CloudFormation Templates to create various type of resources in AWS.
+
+
